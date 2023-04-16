@@ -1,0 +1,134 @@
+body{background-color: black;}
+.title{color: #FF6400;
+    position: relative;
+    left: 15px;
+    top: 10px;
+    width: 60%;
+    font-family: Arial;
+}
+.div1{
+    background-color: #1A1A1A;
+    height: 160px;
+     width: 90%;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+    transition-duration: 0.2s;
+}
+.div1:hover{
+
+        background-color: #FF6400;
+        color: white
+}
+.p1{
+ color: white;
+ position: relative;
+ width: 85%;
+ left: 30px;
+ top: 20px;
+font-family: Arial;
+font-weight: 600;
+}
+.p2{
+ color: rgb(219, 219, 219);
+ position: relative;
+ width: 94%;
+ left: 30px;
+ top: 20px;
+font-family: Arial;
+font-size: 12px;
+}
+.p3{
+color: rgba(255, 255, 255, 0.721);
+position: relative;
+font-family: Arial;
+font-size: 10px;
+left: 30px;
+top: 15px;
+}
+
+
+.div2{
+    background-color: #1A1A1A;
+    height: 160px;
+     width: 90%;
+    border-radius: 10px;
+    position: relative;
+    top: 5px;
+    left: 15px;
+    transition-duration: 0.2s;
+}
+.div2:hover{
+
+    background-color: #FF6400;
+    color: white
+}
+.p4{
+    color: white;
+ position: relative;
+ width: 85%;
+ left: 30px;
+ top: 20px;
+font-family: Arial;
+font-weight: 600;
+}
+.p5
+{
+    color: rgb(219, 219, 219);
+    position: relative;
+    width: 94%;
+    left: 30px;
+    top: 20px;
+   font-family: Arial;
+   font-size: 12px;
+}
+.p6{
+    color: rgba(255, 255, 255, 0.721);
+position: relative;
+font-family: Arial;
+font-size: 10px;
+left: 30px;
+top: 15px;
+}
+.div3{
+    background-color: #1A1A1A;
+    height: 160px;
+     width: 90%;
+    border-radius: 10px;
+    position: relative;
+    top: 5px;
+    left: 15px;
+    transition-duration: 0.2s;
+}
+.div3:hover{
+
+    background-color: #FF6400;
+    color: white
+}
+.p7{
+    color: white;
+ position: relative;
+ width: 85%;
+ left: 30px;
+ top: 20px;
+font-family: Arial;
+font-weight: 600;
+}
+.p8{
+    color: rgb(219, 219, 219);
+    position: relative;
+    width: 94%;
+    left: 30px;
+    top: 20px;
+   font-family: Arial;
+   font-size: 12px;
+}
+.p9{
+    color: rgba(255, 255, 255, 0.721);
+    position: relative;
+    font-family: Arial;
+    font-size: 10px;
+    left: 30px;
+    top: 15px; 
+}
